@@ -1,2 +1,2 @@
-# HTMLtoFunct
+# HTMLtoFunc
 HTML to Function Generator
